@@ -2,7 +2,7 @@
 
 # START CONFIGURATION
 export CONTECO_DC_GLOBAL_PACKAGE_CONTECO="controlplane.modeco"
-export CONTECO_DC_GLOBAL_PACKAGE_TAG="v2.0.8"
+export CONTECO_DC_GLOBAL_PACKAGE_TAG="v2.0.11"
 export CONTECO_DC_GLOBAL_STACKNAMES="controlplane_modeco"
 export CONTECO_DC_GLOBAL_BOOTSTACKS="controlplane_modeco"
 export CONTECO_DC_GLOBAL_RUNSTACKS="controlplane_modeco"
